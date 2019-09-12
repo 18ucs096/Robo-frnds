@@ -1,1 +1,7 @@
-this is made from react using jsonplaceholder with the help of udemy full stack development course of 2k19.
+# robofriends
+Tutorial for udemy course - React
+To run the project:
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
